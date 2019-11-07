@@ -1,0 +1,109 @@
+head,body{
+
+    background-color: #F1F1F1;
+    font-family: 'Patua One', cursive;
+}
+/* navbar */
+.navbar{
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.3);
+}
+#nav-bar-thing{
+    display: flex;
+    font-size: 20px;
+    
+}
+.nav-link{
+    /* width: 30px; */
+    /* margin-left: 30px;
+    margin-right: 30px; */
+}
+#pos-title{
+    /* font-family: Patua One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 78px;
+    display: flex;
+    align-items: center;
+    text-align: center; */
+}
+
+
+/* Positions */
+#positions{
+    display: flex;
+    justify-content: center;
+}
+.pos-text{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+#pos-title{
+    display: flex;
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 78px;
+    justify-content: center;
+    
+}
+#positions-text{
+    margin-left: 60px;
+}
+/* Positions */
+.pictures img{
+    width: 270px
+}
+
+/* News */
+.news_text{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+#product_title{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+ 
+}
+#products_box{
+    background-color: #FFFFFF;
+}
+.products{
+    display: flex ;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.products p{
+    display: flex;
+    justify-content: center;
+    font-size: 26px;
+}
+
+
+/* SG */
+#title{
+    display: flex;
+
+}
+
+.SG_text{
+    margin-left: 20px;
+}
+.player_text{
+    margin-top: 60px;
+}
+
+.img_information{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img_information img{
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.3);
+}
