@@ -110,3 +110,10 @@ head,body{
 
 
 /* Footer */
+
+/* shoes_review */
+#shoes_review_title{
+    display: inline-flex;
+    font-size: 30px;
+    
+}
