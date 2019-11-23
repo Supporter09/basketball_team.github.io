@@ -3,6 +3,11 @@ head,body{
     background-color: #F1F1F1;
     font-family: 'Patua One', cursive;
 }
+/* Other */
+img{
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.3);
+}
+/* Other */
 /* navbar */
 .navbar{
     box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.3);
@@ -51,6 +56,9 @@ head,body{
 }
 #positions-text{
     margin-left: 60px;
+}
+#positions1{
+    
 }
 /* Positions */
 .pictures img{
@@ -110,7 +118,9 @@ head,body{
 
 
 /* Footer */
-
+.page-footer{
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.3);
+}
 /* shoes_review */
 #shoes_review_title{
     display: inline-flex;
